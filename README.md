@@ -14,8 +14,6 @@ A modern, responsive aptitude quiz application built with **Next.js**, **React**
 - ⚛️ Built with modern tech stack: React, Next.js, Tailwind CSS
 - 💾 Stores scores locally in `localStorage` (client-side only)
 
-> 🔒 *No backend yet — scores are saved only on the device.*
-
 <br/>
 
 ## 📦 Tech Stack
