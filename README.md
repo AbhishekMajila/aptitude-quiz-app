@@ -43,9 +43,9 @@ aptitude-quiz-app/
 
 # Running Locally
 Clone the repository and install dependencies:
-git clone https://github.com/yourusername/aptitude-quiz-app.git
-cd aptitude-quiz-app
-npm install
-npm run dev
+-git clone https://github.com/AbhishekMajila/aptitude-quiz-app.git
+-cd aptitude-quiz-app
+-npm install
+-npm run dev
 The app will run at  http://localhost:3000
 
